@@ -1,6 +1,4 @@
-# agricultural_crops
-Implement Softmax Regression and SVM algorithms.
-# Leaf-Disease-Detection-Using-Image-Processing
+# agricultural_crops_dev
 Agricultural productivity is something on which economy highly depends.
 This is the one of the reasons that disease detection in plants plays an important role in agriculture field, as having disease in plants are quite natural.
 If proper care is not taken in this area then it causes serious effects on plants and due to which respective product quality, quantity or productivity is affected. 
